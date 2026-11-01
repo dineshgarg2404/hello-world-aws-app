@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-aws-app",
+  "version": "1.0.0",
+  "description": "Simple web app that prints Hello World and the current time, ready for AWS hosting.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
